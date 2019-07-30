@@ -30,7 +30,7 @@ class App extends Component {
         clickedCharacter: [],
         score: 0
       });
-        alert("You already clicked that! You lose. Play again?");
+        alert("You already clicked that! You lose.");
 
 //if you click on an available character, your score is increased and cards reordered
     } else {
