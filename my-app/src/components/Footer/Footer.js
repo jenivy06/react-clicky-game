@@ -3,8 +3,8 @@ import React from "react";
 import "./Footer.css";
 
 const Footer = () => (
-	<header className = "footer">
-		<p>GAME BY CASE</p>
+	<header className = "footer footertext">
+		<p>Copyright© 2019 Jenny Ivy</p>
 	</header>
 );
 

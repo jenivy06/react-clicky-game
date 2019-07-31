@@ -1,18 +1,29 @@
 .header{
-	background-color: #ccc;
+	background-color: #ff9800 ;
 	position: relative;
 	width: 100%;
+	color: #fff3e0;
 }
 
 h1{
 	text-align: center;
-	font-size: 90px;
+	font-size: 50px;
 	font-weight: bold;
 	padding: 90px 0 20px 0; 
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background: url("https://www.desktopbackground.org/t/2015/04/11/931581_the-simpsons-ask-fm-backgrounds-cartoon-wallpapers_1500x500_h.png");
+	opacity: 0.9;
+	width: 100%;
+	color: white
+	
 }
 
 h2{
 	text-align: center;
-	font-size: 25px;
+	font-size: 20px;
 	padding-bottom: 40px;
+}
+
+.wrapperindex {
+	height: 125vh;
 }

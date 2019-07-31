@@ -1,7 +1,14 @@
 .footer{
-	background-color: green;
+	background-color: #ef6c00;
 	width: 100%;
-	position: relative;
+	height: 40px;
+	position: fixed;
+	text-align: inherit;
+	bottom: 0;
+}
+
+.footertext {
+	padding-bottom: 18px
 }
 
 .footer p{

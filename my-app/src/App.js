@@ -65,11 +65,12 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Navbar 
-          score={this.state.score}
+        <Jumbotron
         />
-        <Jumbotron />
-        <div className="wrapper">
+                <Navbar 
+         score={this.state.score}
+        />
+        <div className="wrapper wrapperindex">
           {this.state.character.map(character => (
             <FriendCard
               imageClick={this.imageClick}
@@ -79,7 +80,7 @@ class App extends Component {
             />
           ))}
         </div>
-     
+        <Footer />
       </div>
     );
   }
