@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "clickygame-homer.png"
+    },
+    {
+        "id": 2,
+        "image": "clickygame-marge.png"
+    },
+    {
+        "id": 3,
+        "image": "clickygame-lisa.png"
+    },
+    {
+        "id": 4,
+        "image": "clickygame-bart.png"
+    },
+    {
+        "id": 5,
+        "image": "clickygame-maggie.png"
+    },
+    {
+        "id": 6,
+        "image": "clickygame-barney.png"
+    },
+    {
+        "id": 7,
+        "image": "clickygame-burns.png"
+    },
+    {
+        "id": 8,
+        "image": "clickygame-comicbookguy.png"
+    },
+    {
+        "id": 9,
+        "image": "clickygame-flanders.png"
+    },
+    {
+        "id": 10,
+        "image": "clickygame-moe.png"
+    },
+    {
+        "id": 11,
+        "image": "clickygame-ralph.png"
+    },
+    {
+        "id": 12,
+        "image": "clickygame-milhouse.png"
+    }
+]
